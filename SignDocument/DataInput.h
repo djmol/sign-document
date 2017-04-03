@@ -13,7 +13,7 @@
 
 @property (strong, nonatomic) NSString *name;
 @property (strong, nonatomic) NSObject *value;
-@property (nonatomic) CGRect drawLocation;
+@property (nonatomic) CGRect drawLocation; // Where on the page the data input will be printed
 @property (nonatomic) NSInteger page; //TODO: Change this to NSArray<NSNumber *> * so that dataInputs can belong to multiple pages
 
 -(id)initWithName:(NSString *)name drawLocation:(CGRect)drawLocation page:(NSInteger)page;
