@@ -1,0 +1,92 @@
+[
+	{
+		"readFileName": "faculty_mobile_device_agreement_read",
+		"signFileName": "faculty_mobile_device_agreement_write",
+		"documentName": "Faculty Mobile Device Agreement",
+        "dataInputs": [
+            {
+                "name": "teacherSignatureImage",
+                "drawLocation": {
+                "x": "170",
+                "y": "212",
+                "width": "200",
+                "height": "40"
+                },
+                "page": "3"
+                },
+                {
+                "name": "technicianSignatureImage",
+                "drawLocation": {
+                "x": "325",
+                "y": "74",
+                "width": "200",
+                "height": "40"
+                },
+                "page": "3"
+                },
+                {
+                "name": "signDate",
+                "drawLocation": {
+                "x": "138",
+                "y": "157",
+                "width": "200",
+                "height": "50"
+                },
+                "page": "3"
+                },
+                {
+                "name": "assetTagNumber",
+                "drawLocation": {
+                "x": "172",
+                "y": "129",
+                "width": "200",
+                "height": "50"
+                },
+                "page": "3"
+                },
+                {
+                "name": "serialNumber",
+                "drawLocation": {
+                "x": "150",
+                "y": "102",
+                "width": "200",
+                "height": "50"
+                },
+                "page": "3"
+                },
+                {
+                "name": "teacherName",
+                "drawLocation": {
+                "x": "400",
+                "y": "571",
+                "width": "200",
+                "height": "50"
+                },
+                "page": "1"
+                },
+                {
+                "name": "teacherPhoneNumber",
+                "drawLocation": {
+                "x": "226",
+                "y": "74",
+                "width": "200",
+                "height": "50"
+                },
+                "page": "3"
+                },
+                {
+                "name": "teacherEmail",
+                "drawLocation": {
+                "x": "0",
+                "y": "0",
+                "width": "0",
+                "height": "0"
+                },
+                "page": "3"
+            }
+        ],
+        "baseRecipientEmails": [
+            "pctistafflaptopforms@pcti.tec.nj.us",
+        ]
+	}
+]
